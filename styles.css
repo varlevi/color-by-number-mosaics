@@ -1,0 +1,56 @@
+body {
+  cursor: crosshair;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+  margin-top: 30%;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+input {
+  cursor: crosshair;
+  font-family: 'Zilla Slab', serif;
+}
+
+p {
+  margin: 0;
+  font-size: .75em;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Quicksand";
+}
+
+.main-content {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.chose-a-color {
+  cursor: crosshair;
+}
+
+.color-block {
+  width: 10%;
+  height: 10%;
+  margin-top: -4px;
+  display: inline-table;
+  background-color: white;
+  border: .5px solid black;
+  box-sizing: border-box;
+}
+
+#choose-a-color-p {
+  padding-top: 3em;
+}
+
